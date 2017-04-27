@@ -1,6 +1,6 @@
 # realmani0.github.io
 
-* Create Date : 2017-04-27 (Sun)
+* Create Date : 2017-04-27
 
 
 ## Skill
